@@ -1,1 +1,3 @@
-
+# Requirements for VLAN automation Google Sheets project
+gspread==6.7.0
+google-auth==2.23.0
