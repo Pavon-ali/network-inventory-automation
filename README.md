@@ -1,5 +1,4 @@
-# network-inventory-automation
-Python automation tool that syncs network inventory across VLAN DHCP sheets using the Google Sheets API
+## 📌 Overview
 
 This project automates the synchronization of network inventory data across multiple VLAN sheets using the Google Sheets API.
 
