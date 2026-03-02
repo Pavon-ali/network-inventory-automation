@@ -11,7 +11,7 @@ scopes = [ # accessing using google apis
 #==========================================
 # CONFIG
 #==========================================
-creds_file = "credentials.json" # refrencing credential file from google api
+creds_file = "--insert credentials json--" # refrencing credential file from google api
 sheet_id = "--insert sheet ID--"
 
 # SHEET TABS===============================
