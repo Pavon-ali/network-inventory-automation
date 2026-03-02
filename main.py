@@ -4,19 +4,19 @@
 import gspread #interact with the sheet
 from google.oauth2.service_account import Credentials 
 
-scopes = [ #accessing using google apis
+scopes = [ # accessing using google apis
     "--insert google api link--"
 ]
 
 #==========================================
 # CONFIG
 #==========================================
-creds_file = "credentials.json" #refrencing credential file
+creds_file = "credentials.json" # refrencing credential file from google api
 sheet_id = "--insert sheet ID--"
 
 # SHEET TABS===============================
 master_sheet_name = "MEB AV Equipment" # master sheet
-vlan_prefix_sheets = "AV DHCP" #vlan sheets prefix
+vlan_prefix_sheets = "AV DHCP" # vlan sheets prefix
 
 # mastersheet columns
 room_col = "313"
